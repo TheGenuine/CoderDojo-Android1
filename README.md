@@ -23,7 +23,7 @@ Each app consits of a set of tasks to build the app and questions to inspire you
 **Description:** A simple hello world app. A basic set of layout elements, input field button and a lable. Put your name into the input field, press the button and a personalised welcome message appears.  
 
 <center>
- ![](images/appinventor_designer1.jpg)
+ ![](https://raw.githubusercontent.com/TheGenuine/CoderDojo-Android1/gh-pages/images/appinventor_designer1.JPG)
 </center>
 
 **Tasks:**  
