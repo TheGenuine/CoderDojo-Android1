@@ -41,9 +41,11 @@ TBD
 
 ### 3. Tick Tock
 **Featuring:** Clock, Global Variables, element visibility  
-**Description:** Who is more accurate to judge a 30 sec duration.  
-**Tasks:**
-TBD
+**Description:** Who is more accurate to judge a 30 sec duration. Two player game, start the clock, if you think 30 sec are up press your button. The player who's closer wins.  
+**Tasks:**  
+1. crate a layout like this -> [tick_tock_layout](https://raw.githubusercontent.com/TheGenuine/CoderDojo-Android1/gh-pages/images/appinventor_designer1.JPG)  
+2. add a clock (sensors -> clock)  
+3. TBD
 
 ### 4. Shake it baby
 **Featuring:** Accelerometer, Image Sprite  
@@ -53,7 +55,7 @@ TBD
 
 ### 5. Say Cheese!
 **Featuring:** Camera   
-**Description:** Take a picture of the winner 
+**Description:** Take a picture of the winner  
 **Tasks:**
 TBD
 
