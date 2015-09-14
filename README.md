@@ -18,7 +18,7 @@ The roadmap consists of a number of use cases/apps featuring different aspects o
 Each app should give you an idea of how to use the featured elements and gives you a starting point to explore the capabilities of these further.  
 Each app consits of a set of tasks to build the app and questions to inspire you to go exporing.
  
-### 1. Say Hello
+### 1. Say Hello > [Slides](http://thegenuine.github.io/CoderDojo-Android1/say_hello)
 **Featuring:** Buttons, Label, Text Input, clicklListener  
 **Description:** A simple hello world app. A basic set of layout elements, input field button and a lable. Put your name into the input field, press the button and a personalised welcome message appears.  
 
@@ -33,19 +33,19 @@ Each app consits of a set of tasks to build the app and questions to inspire you
 4. replace the label text with your personalized message
 
 
-### 2. The Ball
+### 2. The Ball > [Slides](http://thegenuine.github.io/CoderDojo-Android1/the_ball)
 **Featuring:** Canvas, Ball, collide  
 **Descritpion:** A canvas, as far as the screen reaches. A ball, allone on the endless plains of your display. He wants to move, run, roll, escape but the relentless boundaries of the canvas push him back time after time.  
 **Tasks:**
 TBD
 
-### 3. Wack A Mole
+### 3. Wack A Mole > [Slides](http://thegenuine.github.io/CoderDojo-Android1/wach_a_mole)
 **Featuring:** Image Sprite, Clock, Noise/Vibration  
 **Description:** Tap the mole, if you are fast enough, to get points. The mole moves around the field randomly all the time.  
 **Tasks:**
 TBD
 
-### 4. Tick Tock
+### 4. Tick Tock > [Slides](http://thegenuine.github.io/CoderDojo-Android1/tick_tock)
 **Featuring:** Clock, Global Variables, element visibility  
 **Description:** Who is more accurate to judge a 30 sec duration. Two player game, start the clock, if you think 30 sec are up press your button. The player who's closer wins.  
 **Tasks:**  
