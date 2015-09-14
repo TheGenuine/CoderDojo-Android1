@@ -39,7 +39,13 @@ Each app consits of a set of tasks to build the app and questions to inspire you
 **Tasks:**
 TBD
 
-### 3. Tick Tock
+### 3. Wack A Mole
+**Featuring:** Image Sprite, Clock, Noise/Vibration  
+**Description:** Tap the mole, if you are fast enough, to get points. The mole moves around the field randomly all the time.  
+**Tasks:**
+TBD
+
+### 4. Tick Tock
 **Featuring:** Clock, Global Variables, element visibility  
 **Description:** Who is more accurate to judge a 30 sec duration. Two player game, start the clock, if you think 30 sec are up press your button. The player who's closer wins.  
 **Tasks:**  
@@ -47,32 +53,26 @@ TBD
 2. add a clock (sensors -> clock)  
 3. TBD
 
-### 4. Shake it baby
+### Shake it baby
 **Featuring:** Accelerometer, Image Sprite  
 **Description:**  
 **Tasks:**
 TBD
 
-### 5. Say Cheese!
+### 5. 
+**Featuring:** Calculations  
+**Description:**  
+**Tasks:**
+TBD
+
+### 6. Say Cheese!
 **Featuring:** Camera   
 **Description:** Take a picture of the winner  
 **Tasks:**
 TBD
 
-### 6. 
-**Featuring:** multiple screens   
-**Description:**  
-**Tasks:**
-TBD
-
 ### 7. 
-**Featuring:**    
-**Description:**  
-**Tasks:**
-TBD
-
-### 8. 
-**Featuring:**    
+**Featuring:** multiple screens   
 **Description:**  
 **Tasks:**
 TBD
