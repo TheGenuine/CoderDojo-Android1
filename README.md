@@ -36,7 +36,7 @@ Each app consits of a set of tasks to build the app and questions to inspire you
 **Tasks:**
 TBD
 
-### 3. Wack A Mole > [Slides](http://thegenuine.github.io/CoderDojo-Android1/wach_a_mole)
+### 3. Wack A Mole > [Slides](http://thegenuine.github.io/CoderDojo-Android1/wack_a_mole)
 **Featuring:** Image Sprite, Clock, Noise/Vibration  
 **Description:** Tap the mole, if you are fast enough, to get points. The mole moves around the field randomly all the time.  
 **Tasks:**
