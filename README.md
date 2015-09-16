@@ -2,7 +2,7 @@
 CoderDojo class getting started with MITs AppInventor
 
 <center>
-# > [Open the slides](http://thegenuine.github.io/CoderDojo-Android1 "Open the slides") <
+# > [Getting started slides](http://thegenuine.github.io/CoderDojo-Android1 "Getting Started Slides") <
 </center>
 
 ### What you need to get started:
@@ -22,9 +22,6 @@ Each app consits of a set of tasks to build the app and questions to inspire you
 **Featuring:** Buttons, Label, Text Input, clicklListener  
 **Description:** A simple hello world app. A basic set of layout elements, input field button and a lable. Put your name into the input field, press the button and a personalised welcome message appears.  
 
-<center>
- ![](https://raw.githubusercontent.com/TheGenuine/CoderDojo-Android1/gh-pages/images/appinventor_designer1.JPG)
-</center>
 
 **Tasks:**  
 1. Create a layout with an input box, a button and a label  
@@ -53,26 +50,3 @@ TBD
 2. add a clock (sensors -> clock)  
 3. TBD
 
-### Shake it baby
-**Featuring:** Accelerometer, Image Sprite  
-**Description:**  
-**Tasks:**
-TBD
-
-### 5. 
-**Featuring:** Calculations  
-**Description:**  
-**Tasks:**
-TBD
-
-### 6. Say Cheese!
-**Featuring:** Camera   
-**Description:** Take a picture of the winner  
-**Tasks:**
-TBD
-
-### 7. 
-**Featuring:** multiple screens   
-**Description:**  
-**Tasks:**
-TBD
