@@ -52,3 +52,5 @@ TBD
 2. add a clock (sensors -> clock)  
 3. TBD-->
 
+### 5. Mini Golf [Slides](http://thegenuine.github.io/CoderDojo-Android1/mini_golf)
+Open Project to make a mini golf game
